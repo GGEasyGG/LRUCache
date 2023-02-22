@@ -1,0 +1,5 @@
+version: "3"
+
+services:
+    lru_cache:
+        build: .
